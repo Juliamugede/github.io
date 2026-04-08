@@ -1,7 +1,9 @@
 ---
 layout: default
-title: About Page
+title: About
 ---
 
-# Welcome to My Website
-This is my aboutpage.
+[Home](/) | [About](/about.html) | [Projects](/projects.html) | [Blog](/blog.html) | [Contact](/contact.html)
+
+# About Me
+I am a student learning web development and creating my first GitHub Pages website.
