@@ -1,12 +1,6 @@
 
-nav:
-  - name: Home
-    link: /
-  - name: About
-    link: /about.html
-  - name: Projects
-    link: /projects.html
-  - name: Blog
-    link: /blog.html
-  - name: Contact
-    link: /contact.html
+[Home](/) | 
+[About](/about.html) | 
+[Projects](/projects.html) | 
+[Blog](/blog.html) | 
+[Contact](/contact.html)
