@@ -1,7 +1,11 @@
 ---
 layout: default
-title: Blog Page
+title: Blog
 ---
 
-# Welcome to My Website
-This is my Blogpage.
+[Home](/) | [About](/about.html) | [Projects](/projects.html) | [Blog](/blog.html) | [Contact](/contact.html)
+
+# Blog
+- Learning GitHub Pages  
+- Web Development Tips  
+- My Journey as a Student
