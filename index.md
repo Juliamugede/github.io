@@ -4,4 +4,5 @@ title: Home
 ---
 
 # Welcome to My Website
-This is my homepage.
+Hello! My name is Julia Mugede.
+This website showcases my projects, blog posts, and contact details.
