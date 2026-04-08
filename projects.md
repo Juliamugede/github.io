@@ -1,7 +1,11 @@
 ---
 layout: default
-title: Project page
+title: Projects
 ---
 
-# Welcome to My Website
-This is my projectpage.
+[Home](/) | [About](/about.html) | [Projects](/projects.html) | [Blog](/blog.html) | [Contact](/contact.html)
+
+# My Projects
+- Personal Website  
+- GitHub Pages Assignment  
+- Other Web Projects
